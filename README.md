@@ -1,4 +1,3 @@
-# crm137-test
 from difflib import SequenceMatcher
 
 def is_similar(text1, text2, threshold=0.8):
